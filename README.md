@@ -9,3 +9,5 @@ I build A/B test variations from briefs and Figma designs in vanilla JavaScript 
 [Live demo](https://nafeeshasnat.github.io/cart-drawer-ab-test/?v=b) · [Source](https://github.com/nafeeshasnat/cart-drawer-ab-test)
 
 Client code is under NDA, so these are independent demos written in the same patterns I use in client tests.
+
+**Need tests built?** I take A/B test development work on Upwork: [upwork.com/freelancers/nafeeshasnat](https://www.upwork.com/freelancers/nafeeshasnat)
